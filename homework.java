@@ -1,4 +1,4 @@
-public class Main{
+public class homework{
     public static void main(String[] args) {
         String word = "마인드웨이";
         int length = word.length();
