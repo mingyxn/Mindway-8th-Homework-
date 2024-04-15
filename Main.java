@@ -2,7 +2,6 @@ public class Main{
     public static void main(String[] args) {
         String word = "마인드웨이";
         int length = word.length();
-        
         for (int i = 0; i < length; i++) {
             // 첫 번째 반복에서는 마지막 글자를 출력
             for (int j = i; j < length; j++) {
